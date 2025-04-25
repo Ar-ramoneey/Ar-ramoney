@@ -1,0 +1,43 @@
+.first-div{
+    background-color: #F6F0F0;
+    text-align: center;
+    padding: 40px;
+    border-bottom: 1px dotted black;
+    margin: 0px;
+}
+button {
+    background-color: dimgray;
+}
+a{
+    color: floralwhite;
+}
+.summary{
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.second-div{
+    background-color: #F2E2B1;
+    padding: 25px;
+    border-bottom: 1px dotted black;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    color: dimgray;
+}
+.third-div{
+    background-color: #D5C7A3;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px dotted black;
+    margin: 0px;
+}
+.firth-div{
+    background-color: #BDB395;
+    padding: 10px;
+    border-bottom: 1px dotted black;
+    margin: 0px;
+}
+.logo{
+    color: blue;
+}
